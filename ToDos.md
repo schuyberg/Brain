@@ -1,6 +1,8 @@
 #TO DOs
-
-- [ ] Review BigPic/Little Pic exercise for Virtual Team Mtg
-
-##Next Steps
 - [ ] Flush out strat plan doc made w/ Zannah
+- [ ] Contributor Guidelines draft
+- [ ] Clean up planning doc
+- [ ] distribute doc to team for review
+- 
+##Next Steps
+
