@@ -3,6 +3,8 @@
 - [ ] Contributor Guidelines draft
 - [ ] Clean up planning doc
 - [ ] distribute doc to team for review
-- 
+
 ##Next Steps
 
+- [ ] draft data exercise
+- [ ] draft data primer
