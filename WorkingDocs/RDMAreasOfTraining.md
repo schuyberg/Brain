@@ -1,6 +1,6 @@
 ##Areas of Training for Research Data Management (RDM)
 
-Audiences:
+Audiences:  
 R = Research practitioners, students  
 E = Educators / trainers  
 S = Research support, librarians, univ admins  
