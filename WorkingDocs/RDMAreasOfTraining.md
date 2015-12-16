@@ -1,11 +1,11 @@
 ##Areas of Training for Research Data Management (RDM)
 
 Audiences:
-R = Research practitioners, students
-E = Educators / trainers
-S = Research support, librarians, univ admins
-C = Communicators
-A = Advocates
+R = Research practitioners, students  
+E = Educators / trainers  
+S = Research support, librarians, univ admins  
+C = Communicators  
+A = Advocates  
 
 * Open Data *(R, E, S, C, A)*
   * Why
