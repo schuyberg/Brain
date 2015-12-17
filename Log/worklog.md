@@ -1,5 +1,16 @@
 ### Worklog
 
+####12/17/15
+* Email catch up (caught up)
+* grapple w/ Git issues (fixed)
+* Fellows call
+* Call w/ Christie 
+* Learning Git planning w/ Zannah
+
+- [ ] Add resources to Christie's curriculum
+- [ ] Design brief w/ Zannah tomorrow 
+- [ ] Set up Trello board
+
 ####12/16/15
 * Email catch up
 * Review of End of Year report
