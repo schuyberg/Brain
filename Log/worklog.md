@@ -4,6 +4,9 @@
 * Email catch up
 * Review of End of Year report
 * Call w/ Martin Donnelly @ DCC: See Contact mtg notes
+* Team call for cohort planning
+* Travel arrangements for BITSS workshop & CDL mtg
+* EOY report blog post editing
 
 ####12/14-15/15
 * PTO
