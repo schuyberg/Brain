@@ -1,15 +1,30 @@
 ### Worklog
 
+####12/21/15
+* Email
+* Research swag options for WOW
+  * Think ecologically
+  * What gets used, what doesn't?
+* Eco and social responsibility group call
+* Contributor Guidelines updating
+* Curriculum roadmapping, curriculum brief, Team working open w/ Zannah
+
+
+####12/18/15
+* Email
+* Write up Martin Donnelly notes
+* Added resources to Christie's curriculum
+* Design brief w/ Zannah
+* Added comments to website redesign
+
+
 ####12/17/15
 * Email catch up (caught up)
 * grapple w/ Git issues (fixed)
 * Fellows call
 * Call w/ Christie 
 * Learning Git planning w/ Zannah
-
-- [ ] Add resources to Christie's curriculum
-- [ ] Design brief w/ Zannah tomorrow 
-- [ ] Set up Trello board
+* Set up Trello board to manage tasks
 
 ####12/16/15
 * Email catch up
