@@ -1,4 +1,14 @@
 ### Worklog
+####12/25/15
+MERRY CHRISTMAS!!!
+
+####12/22/15
+* Email
+* GitHub labels/milestones and project mgmt w/ Zannah
+* Call w/ student from Wellesley who wanted to know more about Mozilla and data science
+* Emails w/ Design team on getting a "Science/Research Fox" based on Dapper Fox
+* review Aurelia's content review of website
+
 
 ####12/21/15
 * Email
