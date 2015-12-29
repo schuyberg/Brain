@@ -22,7 +22,7 @@ MERRY CHRISTMAS!!!
 
 ####12/18/15
 * Email
-* Write up Martin Donnelly notes
+* Write up Martin Donnelly notes 
 * Added resources to Christie's curriculum
 * Design brief w/ Zannah
 * Added comments to website redesign
@@ -39,7 +39,7 @@ MERRY CHRISTMAS!!!
 ####12/16/15
 * Email catch up
 * Review of End of Year report
-* Call w/ Martin Donnelly @ DCC: See Contact mtg notes
+* Call w/ Martin Donnelly @ DCC: See [Stakeholder mtg notes] (https://docs.google.com/document/d/1slV4NFg_NA00GShWwzYtMEJekjUNilfJHoyjehm4CFU/edit)
 * Team call for cohort planning
 * Travel arrangements for BITSS workshop & CDL mtg
 * EOY report blog post editing
