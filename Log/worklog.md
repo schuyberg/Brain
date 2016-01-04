@@ -1,4 +1,23 @@
 ### Worklog
+
+####01/04/16 <-- got it right on the first try!  
+* catch up on email
+  - particularly strategy docs sent out at end of year
+* review time needed to get research fox stickers for Berlin
+  - looks like a week through stickermule.  Will ship here then take to Berlin.
+* make decisions and get quotes on swag
+  - check w/ KT on USB drives
+  - any leftover notebooks from MozFest or get new?
+  - new: 
+   * drawstring backpacks - current logo? (won't have fox in time)
+   * recycled pens (w/ notebook if don't have leftovers)
+   * buttons (design? New fox?)
+   * stickers: new fox by 1/20?
+* shuttle to airport for BITSS workshop - BOOKED
+* follow-up w/ figshare on bugs
+* flight for Berlin - BOOKED
+* planning call w/ Zannah
+
 ####12/25/15
 MERRY CHRISTMAS!!!
 
