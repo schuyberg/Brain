@@ -1,22 +1,34 @@
 ### Worklog
+####01/05/16
+* travel to SF
+* Curriculum call
+* call w/ KT
+* roadmap w/ Zannah
+* workshop logistics
+* put roadmap into learning repo
+* begin preparing presentation to CDL:
+  * a general overview of what is Mozilla Science and what you are trying to do with the Data projects would be great.
 
 ####01/04/16 <-- got it right on the first try!  
 * catch up on email
   - particularly strategy docs sent out at end of year
 * review time needed to get research fox stickers for Berlin
-  - looks like a week through stickermule.  Will ship here then take to Berlin.
+  - looks like a week through stickermule.  Will ship here then take to Berlin in hopes we can get Research Fox done in time.
 * make decisions and get quotes on swag
-  - check w/ KT on USB drives
-  - any leftover notebooks from MozFest or get new?
+  - check w/ KT on USB drives (Tues call)
+  - any leftover notebooks from MozFest or get new? (Tues call)
   - new: 
    * drawstring backpacks - current logo? (won't have fox in time)
    * recycled pens (w/ notebook if don't have leftovers)
    * buttons (design? New fox?)
    * stickers: new fox by 1/20?
+   * tshirts: for cohort & staff/Fellows? (logo? fox? won't get fox til 1/20)
 * shuttle to airport for BITSS workshop - BOOKED
 * follow-up w/ figshare on bugs
 * flight for Berlin - BOOKED
 * planning call w/ Zannah
+* call for data re-use case studies w/ Stephanie Wykstra
+* prep for travel to SFO tomorrow
 
 ####12/25/15
 MERRY CHRISTMAS!!!
