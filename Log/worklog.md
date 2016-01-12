@@ -1,4 +1,27 @@
 ### Worklog
+####01/12/16
+* Team call for WOW
+* Monthly internal call
+
+####01/11/16
+* Sick leave for dependent care
+* Call w/ KT re: plans for this week
+  - [ ] Send KT Prezi from CDL talk
+  - [ ] Put issues/tasks into repo for:
+      - [ ] How to make data open / reusable resource for WOW
+      - [ ] Transcription of ref interview for how to find data you actually need
+      - [ ] Exercise? Create a data reuse plan (based off DMP)
+* Ordered flash drives for WOW
+* Contacted Martyna in Berlin re: shipping swag from London
+
+####01/08/16
+* meetings & presentation at CDL
+* return to SEA
+
+####01/06-07/16
+* hosting BITSS workshop at MozSF
+* work on drafting data reuse case study proposal w/ Stephanie at IPA
+
 ####01/05/16
 * travel to SF
 * Curriculum call
