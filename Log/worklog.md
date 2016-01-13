@@ -2,7 +2,7 @@
 ####01/13/16
 * thanks to example set by @Blahah and @joeyklee,
 taking worklog out of md file and using issues in repo instead.
-See issue XX for future worklog.
+See issue #7 for future worklog.
 
 ####01/12/16
 * Team call for WOW
@@ -13,11 +13,11 @@ See issue XX for future worklog.
 ####01/11/16
 * Sick leave for dependent care
 * Call w/ KT re: plans for this week
-  - [ ] Send KT Prezi from CDL talk
-  - [ ] Put issues/tasks into repo for:
-      - [ ] How to make data open / reusable resource for WOW
-      - [ ] Transcription of ref interview for how to find data you actually need
-      - [ ] Exercise? Create a data reuse plan (based off DMP)
+  - [X] Send KT Prezi from CDL talk
+  - [X] Put issues/tasks into Plan repo for:
+      * How to make data open / reusable resource for WOW
+      * Transcription of ref interview for how to find data you actually need
+      * Exercise? Create a data reuse plan (based off DMP)
 * Ordered flash drives for WOW
 * Contacted Martyna in Berlin re: shipping swag from London
 
