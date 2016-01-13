@@ -1,7 +1,14 @@
 ### Worklog
+####01/13/16
+* thanks to example set by @Blahah and @joeyklee,
+taking worklog out of md file and using issues in repo instead.
+See issue XX for future worklog.
+
 ####01/12/16
 * Team call for WOW
 * Monthly internal call
+* Deidentifying Data webinar
+* Began drafting Data Quick Sheets, added links to repo
 
 ####01/11/16
 * Sick leave for dependent care
