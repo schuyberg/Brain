@@ -1,7 +1,10 @@
-#### DATE
+#### LOCATION: 
+**Dates:**
 
-* 
-* 
-
-TO DO
-- [ ] xxx
+- [ ] Plane
+- [ ] Lodging
+- [ ] Gr Transport
+- [ ] Registration
+- [ ] Currency Exchange
+- [ ] Travel docs
+- [ ] Reimbursement
