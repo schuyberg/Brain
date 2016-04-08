@@ -1,6 +1,3 @@
-#### LOCATION: 
-**Dates:**
-
 - [ ] Plane
 - [ ] Lodging
 - [ ] Gr Transport
@@ -8,3 +5,6 @@
 - [ ] Currency Exchange
 - [ ] Travel docs
 - [ ] Reimbursement
+
+#### LOCATION: 
+**Dates:**
