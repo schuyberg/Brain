@@ -4,7 +4,5 @@
 - [ ] Registration
 - [ ] Currency Exchange
 - [ ] Travel docs
+- [ ] Shuttle to/from airport
 - [ ] Reimbursement
-
-#### LOCATION: 
-**Dates:**
